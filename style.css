@@ -1,0 +1,16 @@
+.main{
+margin: 10px;
+}
+.titlebar{
+border: solid black 2px;
+background-color: #0033cc;
+color: #ffffff;
+}
+footer{
+border: solid black 2px;
+background-color: #0033cc;
+color: #ffffff;
+}
+.content{
+border: solid black 2px;
+}

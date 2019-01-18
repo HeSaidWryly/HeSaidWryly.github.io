@@ -2,18 +2,15 @@
 margin: 10px;
 }
 .titlebar{
-text-align: center;
 border: solid black 2px;
 background-color: #0033cc;
 color: #ffffff;
 }
 footer{
-text-align: center;
 border: solid black 2px;
 background-color: #0033cc;
 color: #ffffff;
 }
 .content{
-text-align: center;
 border: solid black 2px;
 }

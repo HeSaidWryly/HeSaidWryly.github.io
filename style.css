@@ -21,3 +21,6 @@ float: left;
 float: right;
 margin: 20px;
 }
+.clear{
+clear: all;
+}

@@ -5,11 +5,13 @@ margin: 10px;
 border: solid black 2px;
 background-color: #0033cc;
 color: #ffffff;
+text-align: center;
 }
 footer{
 border: solid black 2px;
 background-color: #0033cc;
 color: #ffffff;
+text-align: center;
 }
 .content{
 border: solid black 2px;
